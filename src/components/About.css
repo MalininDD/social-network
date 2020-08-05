@@ -1,0 +1,30 @@
+.about {
+  margin-left: 34.3rem;
+  margin-top: 2rem;
+}
+
+.about__row {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.about__square {
+  height: 100px;
+  width: 100px;
+  background-color: #3a82c5;
+}
+
+.about__name {
+  font-size: 40px;
+}
+
+.about__text {
+  margin-top: 2rem;
+  font-size: 20px;
+}
+
+.about__body {
+  margin-left: 2rem;
+  width: 100%;
+}
